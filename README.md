@@ -1,0 +1,2 @@
+# createReactRepository
+一个初始化的React项目的仓库,后续可以不用再npm
