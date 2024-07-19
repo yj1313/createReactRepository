@@ -1,5 +1,3 @@
-// src/App.js
-
 import React, { useState } from "react";
 import { Layout, Button } from "antd";
 import UserList from "./component/UserList";

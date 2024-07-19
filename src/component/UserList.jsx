@@ -1,5 +1,3 @@
-// src/UserList.js
-
 import React from "react";
 import { Table, Button, Space } from "antd";
 
